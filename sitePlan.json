@@ -1,0 +1,49 @@
+{
+  "businessName": "Able Multi Ventures",
+  "industry": "Manufacturing",
+  "tone": "professional-confident",
+  "tagline": "Quality Manufacturing Solutions for Nigerian Businesses",
+  "sections": [
+    {
+      "id": "hero",
+      "name": "Hero",
+      "copy": "Able Multi Ventures - Your Trusted Manufacturing Partner in Ibadan. We deliver quality manufacturing solutions tailored to meet the demands of Nigerian businesses. Located in the heart of Ona Ara Local Government, we combine innovation with reliability to serve industries across Nigeria.",
+      "imagePrompt": "Wide angle photograph of a modern Nigerian manufacturing facility exterior at golden hour, industrial building with clean lines, delivery trucks in yard, workers in safety gear, Ibadan landscape visible in background, professional lighting, high quality industrial photography, vibrant Nigerian sky",
+      "layout": "centered"
+    },
+    {
+      "id": "about",
+      "name": "About Us",
+      "copy": "Able Multi Ventures is a leading manufacturing company based in Ibadan, Nigeria. Strategically located at Idi Ose Akanran Road, Amuloko in Ona Ara Local Government, we have positioned ourselves as a reliable partner for businesses seeking quality manufacturing solutions. Our facility combines modern equipment with experienced craftsmanship to deliver products that meet both local and international standards. We understand the unique needs of Nigerian businesses and have built our operations around providing dependable, cost-effective manufacturing services. From concept to completion, we work closely with our clients to ensure their specifications are met with precision and delivered on schedule.",
+      "imagePrompt": "Interior shot of a well-organized Nigerian manufacturing workshop, workers collaborating around machinery, safety equipment visible, natural light streaming through large windows, organized workspace with quality materials, professional industrial environment, authentic Nigerian workplace atmosphere",
+      "layout": "split"
+    },
+    {
+      "id": "services",
+      "name": "Our Services",
+      "copy": "At Able Multi Ventures, we offer comprehensive manufacturing services designed to support businesses across multiple sectors. Our capabilities include custom manufacturing, product development, quality control, and timely delivery. We work with various materials and processes to bring your specifications to life. Whether you need small batch production or large-scale manufacturing runs, our team has the expertise and equipment to handle projects of any size. We maintain strict quality standards throughout our production process, ensuring that every item leaving our facility meets your exact requirements. Our location in Ibadan provides excellent logistics access, enabling us to serve clients throughout Oyo State and across Nigeria efficiently.",
+      "imagePrompt": "Dynamic collage-style image showing multiple manufacturing processes in a Nigerian facility: workers operating machinery, quality inspection with measuring tools, finished products being packaged, raw materials storage, all within a clean modern factory setting, bright professional lighting",
+      "layout": "grid"
+    },
+    {
+      "id": "why-choose-us",
+      "name": "Why Choose Able Multi Ventures",
+      "copy": "Choosing the right manufacturing partner is crucial for your business success. At Able Multi Ventures, we stand out through our commitment to quality, reliability, and customer satisfaction. Our team brings years of manufacturing experience, ensuring your projects are handled with expertise. We maintain competitive pricing without compromising on quality, making professional manufacturing accessible to businesses of all sizes. Our strategic location in Amuloko, Ibadan offers convenience and excellent connectivity. We pride ourselves on clear communication, meeting deadlines, and building long-term partnerships with our clients. When you work with Able Multi Ventures, you work with a team that treats your success as our own.",
+      "imagePrompt": "Professional photograph of confident Nigerian manufacturing team standing proudly in front of their facility, diverse group in company uniforms and safety gear, modern equipment visible in background, warm afternoon lighting, authentic pride and professionalism captured, high-quality corporate photography",
+      "layout": "centered"
+    },
+    {
+      "id": "contact",
+      "name": "Get In Touch",
+      "copy": "Ready to discuss your manufacturing needs? Able Multi Ventures is here to help. Whether you have a detailed project brief or just an initial idea, our team is ready to provide expert guidance and competitive quotations. Visit us at our facility in Amuloko, Ibadan, or reach out via phone or WhatsApp. We respond promptly to all inquiries and look forward to exploring how we can support your business with quality manufacturing solutions. Let's build something great together.",
+      "imagePrompt": "Welcoming reception area of a Nigerian manufacturing company, professional front desk, company branding visible, comfortable seating area, large windows showing facility beyond, plants adding warmth, clean modern Nigerian business environment, inviting atmosphere",
+      "layout": "default"
+    }
+  ],
+  "contact": {
+    "phone": "+234 903 723 5186",
+    "email": "info@ablemultiventures.com",
+    "address": "Idi Ose Akanran Road, Amuloko, Ona Ara Local Government, Ibadan, Oyo State, Nigeria",
+    "whatsapp": "https://wa.me/2349037235186"
+  }
+}
